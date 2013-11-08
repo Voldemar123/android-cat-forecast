@@ -36,7 +36,7 @@ public class LocationSearchTestCase extends AndroidTestCase {
 	}
 	
 	public void testEmptyResult() throws Exception {
-		String str = ResourceUtils.readStringResource( getTestContext(), R.raw.search_empty_api1 );
+		String str = ResourceUtils.readRawResource( getTestContext(), R.raw.search_empty_api1 );
 
 		assertNotNull(str);
 		
@@ -55,7 +55,7 @@ public class LocationSearchTestCase extends AndroidTestCase {
 	}
 
 	public void testLatitudeLongitudeJSONResult() throws Exception {
-		String str = ResourceUtils.readStringResource( getTestContext(), R.raw.search_api1 );
+		String str = ResourceUtils.readRawResource( getTestContext(), R.raw.search_api1 );
 
 		JSONObject result = new JSONObject(str);
 		
@@ -86,7 +86,7 @@ public class LocationSearchTestCase extends AndroidTestCase {
 	}
 
 	public void testCityJSONResult() throws Exception {
-		String str = ResourceUtils.readStringResource( getTestContext(), R.raw.search2_api1 );
+		String str = ResourceUtils.readRawResource( getTestContext(), R.raw.search2_api1 );
 
 		JSONObject result = new JSONObject(str);
 		

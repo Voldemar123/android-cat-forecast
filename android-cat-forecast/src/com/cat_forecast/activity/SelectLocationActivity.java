@@ -262,8 +262,8 @@ public class SelectLocationActivity extends Activity implements OnClickListener 
 			L.i(currentCondition);
 			
 			imageFetcher.attachImage(
-					mCurrentLocationWeatherIcon, 
-					currentCondition.weatherIconUrl[0].value );
+					currentCondition.weatherIconUrl[0].value, 
+					mCurrentLocationWeatherIcon );
 
 			mCurrentLocationTemp.setText( 
 					String.format( 

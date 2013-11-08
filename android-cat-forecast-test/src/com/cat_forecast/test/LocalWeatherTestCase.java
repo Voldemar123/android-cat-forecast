@@ -36,7 +36,7 @@ public class LocalWeatherTestCase extends AndroidTestCase {
 	}
 	
 	public void testEmptyResult() throws Exception {
-		String str = ResourceUtils.readStringResource( getTestContext(), R.raw.local_empty_api1 );
+		String str = ResourceUtils.readRawResource( getTestContext(), R.raw.local_empty_api1 );
 
 		assertNotNull(str);
 		
@@ -58,7 +58,7 @@ public class LocalWeatherTestCase extends AndroidTestCase {
 	}
 
 	public void testLatitudeLongitudeJSONResult() throws Exception {
-		String str = ResourceUtils.readStringResource( getTestContext(), R.raw.local2_api1 );
+		String str = ResourceUtils.readRawResource( getTestContext(), R.raw.local2_api1 );
 
 		assertNotNull(str);
 		
@@ -90,7 +90,7 @@ public class LocalWeatherTestCase extends AndroidTestCase {
 	}
 
 	public void testCityJSONResult() throws Exception {
-		String str = ResourceUtils.readStringResource( getTestContext(), R.raw.local_api1 );
+		String str = ResourceUtils.readRawResource( getTestContext(), R.raw.local_api1 );
 
 		assertNotNull(str);
 		
