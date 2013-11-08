@@ -1,0 +1,165 @@
+{
+    "search_api": {
+        "result": [{
+            "areaName": [{
+                "value": "Kiyev"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kiyev-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kiyiv"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kiyiv-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kyyiv"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kyyiv-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kijow"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kijow-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kiev"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "2514227",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kiev-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kiew"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kiew-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kijew"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kijew-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Choklovka"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.417",
+            "longitude": "30.450",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Choklovka-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Zhulyane"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.400",
+            "longitude": "30.433",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Zhulyane-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Zhulyany"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.400",
+            "longitude": "30.433",
+            "population": "0",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Zhulyany-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "search_api": {
+        "result": [{
+            "areaName": [{
+                "value": "Kiev"
+            }],
+            "country": [{
+                "value": "Ukraine"
+            }],
+            "latitude": "50.433",
+            "longitude": "30.517",
+            "population": "2514227",
+            "region": [{
+                "value": "Kyyivs\u0027ka Oblast\u0027"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kiev-weather\/Kyyivska-Oblast\/UA.aspx"
+            }]
+        }, {
+            "areaName": [{
+                "value": "Kiev"
+            }],
+            "country": [{
+                "value": "Russia"
+            }],
+            "latitude": "42.905",
+            "longitude": "133.702",
+            "population": "0",
+            "region": [{
+                "value": "Primor\u0027ye"
+            }],
+            "weatherUrl": [{
+                "value": "http:\/\/www.worldweatheronline.com\/Kiev-weather\/Primorye\/RU.aspx"
+            }]
+        }]
+    }
+}
